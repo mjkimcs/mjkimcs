@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6fd0e0&height=250&section=header&text=Minjeong%20Kim&fontSize=50&animation=fadeIn&fontAlignY=38)
-<h3 align="center"> Live with passion⚡⚡ </h3>
+<h3 align="center"> Live with passion⚡⚡ </h3> <!--헥스색상코드-->
 
 <br><br><br>
 <h3 align='center'> 🚀 Tech Stack 🚀 </h3>
