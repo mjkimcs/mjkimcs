@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=bdecb6&height=200&section=header&text=Live%20with%20passion⚡⚡&fontSize=50&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6fd0e0&height=200&section=header&text=Minjeong%20Kim&fontSize=50&animation=fadeIn&fontAlignY=38)
+<h3 align="center"> Live with passion⚡⚡ </h3>
 
-
-
-<br><br><br><br>
-<h2 align='center'> 🚀 Tech Stack 🚀 </h2>
+<br><br><br>
+<h3 align='center'> 🚀 Tech Stack 🚀 </h3>
 <h5 align="center"> Techs that I've used at least once </h5>
 <br>
 <p align='center'>
