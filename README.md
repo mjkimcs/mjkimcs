@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=e2f3ea&height=200&section=header&text=Live%20%20%20with%20%20%20passion🍋&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=e2f3ea&height=200&section=header&text=Live%20%20%20with%20%20%20passion🍋&fontSize=50)
 
 ### <center> 🚀 Tech Stack 🚀 </center>
 
