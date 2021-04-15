@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=bdecb6&height=200&section=header&text=Live%20%20%20with%20%20%20passion :zap:&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=bdecb6&height=200&section=header&text=Live%20with%20passion⚡⚡&fontSize=50&animation=fadeIn&fontAlignY=38)
+
+
+
 <br><br><br><br>
 <h2 align='center'> 🚀 Tech Stack 🚀 </h2>
 <h5 align="center"> Techs that I've used at least once </h5>
