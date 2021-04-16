@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Minjeong%20Kim&fontSize=50&animation=fadeIn&fontAlignY=42&color=6fd0e0)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Minjeong%20Kim&fontSize=50&animation=fadeIn&fontAlignY=42&color=a0e54c)
 <!--![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80 오른쪽정렬 &fontAlignY=40 위아래정렬 &color=gradient  6fd0e0)-->
 <h3 align="center"> Live with passion⚡⚡ </h3> <!--헥스색상코드-->
 
