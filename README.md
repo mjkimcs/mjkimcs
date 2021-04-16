@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Minjeong%20Kim&fontSize=50&animation=fadeIn&fontAlignY=42&color=a0e54c)
 <!--![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80 오른쪽정렬 &fontAlignY=40 위아래정렬 &color=gradient  6fd0e0)-->
+
 <h3 align="center"> Live with passion⚡⚡ </h3> <!--헥스색상코드-->
 
 <br><br><br>
 <h3 align='center'> 🚀 Tech Stack 🚀 </h3>
 <h5 align="center"> Techs that I've used at least once </h5>
-<br>
 <p align='center'>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
